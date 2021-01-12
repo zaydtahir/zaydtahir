@@ -10,3 +10,5 @@ I'm a student at the University of Waterloo studying Mechatronics Engineering!
 📫 Contact me at: zaydtahir20@gmail.com
 
 ⚡ Fun fact: I've been training in Go Ju Ryu Karate for over 8 years!
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zaydtahir&show_icons=true&theme=gruvbox)
