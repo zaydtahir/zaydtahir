@@ -11,7 +11,7 @@ I'm a student at the University of Waterloo studying Mechatronics Engineering!
 
 ⚡ Fun fact: I've been training in Go Ju Ryu Karate for over 8 years!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zaydtahir&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zaydtahir&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaydtahir&hide=css&hide_title=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaydtahir&hide=css&hide_title=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
