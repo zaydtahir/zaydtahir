@@ -7,9 +7,9 @@ I'm a student at the University of Waterloo studying Mechatronics Engineering!
 - A python discord bot with 3000+ users that handles all things from verification to a database-driven quote system
 - A chess engine created using Java that uses Stockfish AI
 
-📫 Contact me at: zaydtahir20@gmail.com
+📫 Contact me at: contact@zaydtahir.com
 
-⚡ Fun fact: I've been training in Go Ju Ryu Karate for over 8 years!
+⚡ Fun fact: I've been training in Go Ju Ryu Karate for over 10 years!
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zaydtahir&show_icons=true&theme=tokyonight&count_private=true&hide_title=true)
 
